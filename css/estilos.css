@@ -1,0 +1,36 @@
+body{
+	background-color: #352b86;
+}
+#contenedor{
+	background-color: #b72c2c;
+}
+
+#navegador ul li a{
+	background-color: ;
+	color: #04f941;
+}
+.presentacion{	
+	background-color: #607b62;
+	color: #04f941;
+}
+.fs-4{
+	color: #04f941;
+}
+#footer ul li a{
+	
+	color: #04f941;
+}
+p{
+	color: #04f941;
+}
+h5{
+	color: #04f941;
+}
+.navbar-toggler-icon{
+	color: red;
+}
+
+#cabecera{
+	background-color: #b72c2c;
+	
+}
